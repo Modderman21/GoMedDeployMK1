@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/97808e09-6d37-47e1-8565-f2dc409b0c9c/resourceGroups/GoMedChatBotMK1/providers/Microsoft.Web/sites/GoMedChatBotMK1",
+    "appService.deploySubpath": "chat_template-main"
+}
